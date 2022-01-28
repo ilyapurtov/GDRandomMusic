@@ -1,0 +1,7 @@
+C:\Users\purto\source\repos\GDRandomMusic\GDRandomMusic\bin\Debug\GDRandomMusic.exe.config
+C:\Users\purto\source\repos\GDRandomMusic\GDRandomMusic\bin\Debug\GDRandomMusic.exe
+C:\Users\purto\source\repos\GDRandomMusic\GDRandomMusic\bin\Debug\GDRandomMusic.pdb
+C:\Users\purto\source\repos\GDRandomMusic\GDRandomMusic\obj\Debug\GDRandomMusic.csproj.AssemblyReference.cache
+C:\Users\purto\source\repos\GDRandomMusic\GDRandomMusic\obj\Debug\GDRandomMusic.csproj.CoreCompileInputs.cache
+C:\Users\purto\source\repos\GDRandomMusic\GDRandomMusic\obj\Debug\GDRandomMusic.exe
+C:\Users\purto\source\repos\GDRandomMusic\GDRandomMusic\obj\Debug\GDRandomMusic.pdb
